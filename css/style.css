@@ -1,10 +1,10 @@
 :root {
-  --paper: #f2f5f9;
+  --paper: #f3effa;
   --card: #ffffff;
-  --ink: #17212f;
-  --muted: #566274;
-  --line: #c4ccd8;
-  --accent: #1d4f9c;
+  --ink: #261c3a;
+  --muted: #675b80;
+  --line: #d3c8e8;
+  --accent: #6b3fb5;
   --error: #a8201a;
   --error-bg: #fdecea;
   --ok: #17663a;
@@ -140,7 +140,7 @@ button {
   border: 2px solid var(--accent);
 }
 
-#registerBtn:hover { background: #163e7c; }
+#registerBtn:hover { background: #55318f; }
 
 #resetBtn {
   color: var(--ink);
